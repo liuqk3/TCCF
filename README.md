@@ -1,7 +1,7 @@
 ## TCCF: Tracking Based on Convolutional Neural Network and Correlation Filters
 
 ### Introduction
-TCCF is an online visual tracking algorithm which is based on correaltion filters and a pre-trained convolutional neural networks. This package contains the source code to reproduce the experimental results of TCCF reported in our ICIG 2017 paper, which can be download in this repository. The source code is mainly written in MATLAB.
+TCCF is an online visual tracking algorithm which is based on correaltion filters and a pre-trained convolutional neural network. This package contains the source code to reproduce the experimental results of TCCF reported in our ICIG 2017 paper, which can be download in this repository. The source code is mainly written in MATLAB.
 
 ### Usage
 
