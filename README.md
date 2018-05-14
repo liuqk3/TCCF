@@ -20,12 +20,15 @@ TCCF is an online visual tracking algorithm which is based on correaltion filter
 
 If you find TCCF useful in your research, please consider to cite our paper:
 
-        @inproceedings{ICIG2017TCCF,
-           title={TCCF: Tracking Based on Convolutional Neural Network and Correlation Filters},
-           author={Qiankun Liu, Bin Liu, and Nenghai Yu},
-           booktitle={ICIG},
-           year={2017}
-        }
+        @inproceedings{liu2017tccf,
+          title={TCCF: Tracking Based on Convolutional Neural Network and Correlation Filters},
+          author={Liu, Qiankun and Liu, Bin and Yu, Nenghai},
+          booktitle={International Conference on Image and Graphics},
+          pages={316--327},
+          year={2017},
+          organization={Springer}
+}
+
 
 ### All rights reserved. 
 
